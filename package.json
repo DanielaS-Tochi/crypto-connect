@@ -1,0 +1,32 @@
+{
+  "name": "crypto-connect",
+  "version": "1.0.0",
+  "description": "Mini dApp donde el usuario se conecta con su wallet, crea un perfil Web3 y guarda sus criptos favoritas (persistencia en contrato inteligente)",
+  "keywords": [
+    "web3",
+    "blockchain",
+    "crypto",
+    "cripto",
+    "wallet",
+    "dapp"
+  ],
+  "homepage": "https://github.com/DanielaS-Tochi/crypto-connect#readme",
+  "bugs": {
+    "url": "https://github.com/DanielaS-Tochi/crypto-connect/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielaS-Tochi/crypto-connect.git"
+  },
+  "license": "MIT",
+  "author": "Daniela Silvana Tochi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox-viem": "^3.0.0",
+    "hardhat": "^2.24.3"
+  }
+}
